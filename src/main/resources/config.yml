@@ -1,0 +1,14 @@
+# Vertical velocity applied to each extra jump.
+second-jump-velocity: 0.55
+third-jump-velocity: 0.62
+
+# Preserve normal movement while giving a very small forward carry.
+horizontal-multiplier: 1.05
+
+# Delay before the third jump can be armed after the second jump.
+# This prevents one double-tap from accidentally consuming both air jumps.
+rearm-delay-ticks: 4
+
+# Small, client-safe feedback effects.
+particle-count: 10
+play-sound: true
