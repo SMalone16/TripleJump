@@ -1,0 +1,6 @@
+name: TripleJump
+version: 1.0.0
+main: org.pawling.triplejump.TripleJumpPlugin
+api-version: '1.21'
+author: Pawling Minecraft Mod Lab
+description: Gives survival/adventure players two controlled mid-air jumps before they must land to reset.
